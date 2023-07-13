@@ -84,6 +84,10 @@ p {
     font-size: 20px;
 }
 
+mark {
+    background: #afe5ec;
+}
+
 table {
     border-radius: 15px;
     border-collapse: collapse;
